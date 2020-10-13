@@ -37,8 +37,8 @@
   },
   {
     "code": "131",
-    "packet": "12 000",
-    "minutes": "12 000",
+    "packet": "20 000",
+    "minutes": "2 500",
     "name_ru": "Mobi 70",
     "name": "Mobi 70",
     "price": "70 000",
@@ -46,7 +46,7 @@
   },
   {
     "code": "132",
-    "packet": "18 000",
+    "packet": "65 000",
     "minutes": "3 500",
     "name_ru": "Mobi 90",
     "name": "Mobi 90",
@@ -55,8 +55,8 @@
   },
   {
     "code": "133",
-    "packet": "25 000",
-    "minutes": "5 000",
+    "packet": "80 000",
+    "minutes": "∞",
     "name_ru": "Mobi 110",
     "name": "Mobi 110",
     "price": "110 000",
@@ -64,8 +64,8 @@
   },
   {
     "code": "134",
-    "packet": "50 000",
-    "minutes": "10 000",
+    "packet": "100 000",
+    "minutes": "∞",
     "name_ru": "Mobi 150",
     "name": "Mobi 150",
     "price": "150 000",
