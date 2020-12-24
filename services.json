@@ -1,5 +1,12 @@
 [
   {
+    "code": "*111*0301#",
+    "def": "Abonentlarga qulaylik yaratish maqsadida, Mobiuzda yaqinlaringiz bilan aloqada qolishga yordam beradigan ovozli pochta xizmati amal qilmoqda.\nUshbu xizmat,unga ulangan abonentga,bepul taqdim etiladi. Bitta ovozli xabar uchun 240 so‘m miqdorida bo‘lgan to‘lov,qo‘ng'iroq qilayotgan abonent tomonidan amalga oshiriladi (shuningdek unda tarifga kiritilgan daqiqalar ham sarflanadi). Mablag’larni yechib olish yozib olish boshlanganligi haqidagi signal berilgandan keyin amalga oshiriladi.",
+    "def_ru": "Для удобства подписчиков в Mobiuz есть служба голосовой почты, которая помогает вам оставаться на связи со своими близкими.\nЭта услуга предоставляется бесплатно подключенному к ней абоненту. Оплата 240 сумов за одно голосовое сообщение производится звонящим абонентом (включая минуты, включенные в тариф). Снятие средств производится после начала записи.",
+    "name": "Barcha uchun ovozli pochta",
+    "name_ru": "Голосовая почта для всех"
+  },
+  {
     "code": "*166#",
     "def": "Super 0 xizmati yoqilganda UMS tarmog'i ichida chiquvchi qo'ng'iroqlar uchun bir kalendar oyi muddatiga 15 000 daqiqalik to'plam ishga tushadi. Super 0 xizmati yoqilganda Konferents-aloqa xizmati ishlamaydi. Xizmat narxi 4 211 so'm. Ijobiy balansda faollashtirilgan paytda yechib olinadi! Xizmat amal qilish muddati cheklanmagan",
     "def_ru": "С услугой «Super 0» исходящие звонки внутри сети UMS бесплатны**! Стоимость активации услуги — 4210,35 (списывается единоразово при подключении услуги). Ежемесячная абонентская плата за услугу — 0 сум! Срок действия услуги неограничен",
