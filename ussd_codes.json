@@ -1,5 +1,10 @@
 [
 {
+"code": "*100*1",
+"def": "Banasni tekshirish",
+"def_ru": "Проверка баланса"
+},
+{
 "code": "*102",
 "def": "Qolgan MB tekshirish",
 "def_ru": "Проверка остаток МБ"
