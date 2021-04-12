@@ -73,12 +73,12 @@
   },
   {
     "code": "043",
-    "packet": "50",
+    "packet": "500",
     "minutes": "400",
-    "name_ru": "Omad",
+    "name_ru": "Omad Plus",
     "name": "Omad",
     "price": "12 000",
-    "sms": "100"
+    "sms": "00"
   },
   {
     "code": "112",
