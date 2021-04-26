@@ -1,30 +1,43 @@
 [
   {
     "code": "120",
-    "packet": "1 500",
-    "minutes": "500",
+    "packet": "2 000/67",
+    "minutes": "500/17",
     "name_ru": "Mobi 20",
     "name": "Mobi 20",
-    "price": "20 000",
+    "price": "20 000/1 000",
+    "type": "1",
     "sms": "500"
   },
   {
+    "code": "102",
+    "packet": "3 500/117",
+    "minutes": "750/25",
+    "name_ru": "Mobi 25",
+    "name": "Mobi 25",
+    "price": "25 000/1 250",
+    "type": "1",
+    "sms": "750/25"
+  },
+  {
     "code": "128",
-    "packet": "4 000",
-    "minutes": "1 000",
+    "packet": "5 000/167",
+    "minutes": "1 000/33",
     "name_ru": "Mobi 30+",
     "name": "Mobi 30+",
-    "price": "30 000",
-    "sms": "1 000"
+    "price": "30 000/1 500",
+    "type": "1",
+    "sms": "1 000/33"
   },
   {
     "code": "122",
-    "packet": "6 000",
-    "minutes": "1 200",
+    "packet": "8 000/267",
+    "minutes": "1 200/40",
     "name_ru": "Mobi 40",
     "name": "Mobi 40",
-    "price": "40 000",
-    "sms": "1 200"
+    "price": "40 000/2 000",
+    "type": "1",
+    "sms": "1 200/40"
   },
   {
     "code": "129",
@@ -33,6 +46,7 @@
     "name_ru": "Mobi 50",
     "name": "Mobi 50",
     "price": "50 000",
+    "type": "0",
     "sms": "1 500"
   },
   {
@@ -42,6 +56,7 @@
     "name_ru": "Mobi 70",
     "name": "Mobi 70",
     "price": "70 000",
+    "type": "0",
     "sms": "2 500"
   },
   {
@@ -51,6 +66,7 @@
     "name_ru": "Mobi 90",
     "name": "Mobi 90",
     "price": "90 000",
+    "type": "0",
     "sms": "3 500"
   },
   {
@@ -60,6 +76,7 @@
     "name_ru": "Mobi 110",
     "name": "Mobi 110",
     "price": "110 000",
+    "type": "0",
     "sms": "5 000"
   },
   {
@@ -69,16 +86,28 @@
     "name_ru": "Mobi 150",
     "name": "Mobi 150",
     "price": "150 000",
+    "type": "0",
     "sms": "10 000"
   },
   {
+    "code": "101",
+    "packet": "35 000/1 167",
+    "minutes": "1 000/34",
+    "name_ru": "GAP yo’q Pro",
+    "name": "GAP yo’q Pro",
+    "price": "75 000/3 750",
+    "type": "1",
+    "sms": "0"
+  },
+  {
     "code": "043",
-    "packet": "500",
-    "minutes": "400",
+    "packet": "500/17",
+    "minutes": "400/14",
     "name_ru": "Omad Plus",
     "name": "Omad",
-    "price": "12 000",
-    "sms": "00"
+    "price": "12 000/600",
+    "type": "1",
+    "sms": "400/14"
   },
   {
     "code": "112",
@@ -87,6 +116,7 @@
     "name_ru": "Термнинал",
     "name": "Terminal",
     "price": "12 000",
+    "type": "0",
     "sms": "0"
   },
   {
@@ -96,15 +126,7 @@
     "name_ru": "Chilla Lite",
     "name": "Chilla Lite",
     "price": "20 000",
+    "type": "0",
     "sms": "100"
-  },
-  {
-    "code": "125",
-    "packet": "0",
-    "minutes": "1 000",
-    "name_ru": "Shodlik",
-    "name": "Shodlik",
-    "price": "20 000",
-    "sms": "1 000"
   }
 ]
