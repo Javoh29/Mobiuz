@@ -1,5 +1,15 @@
 [
   {
+    "code": "042",
+    "packet": "200/7",
+    "minutes": "3 000/100",
+    "name_ru": "Chilla Lite+",
+    "name": "Chilla Lite+",
+    "price": "20 000/1 000",
+    "type": "1",
+    "sms": "100/3"
+  },
+  {
     "code": "120",
     "packet": "2 000/67",
     "minutes": "500/17",
