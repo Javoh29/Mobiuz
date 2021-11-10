@@ -1,48 +1,38 @@
 [
   {
-    "code": "042",
-    "packet": "200/7",
-    "minutes": "3 000/100",
-    "name_ru": "Chilla Lite+",
-    "name": "Chilla Lite+",
-    "price": "20 000/1 000",
-    "type": "1",
-    "sms": "100/3"
-  },
-  {
     "code": "120",
     "packet": "2 000/67",
-    "minutes": "500/17",
+    "minutes": "2 000/67",
     "name_ru": "Mobi 20",
     "name": "Mobi 20",
     "price": "20 000/1 000",
     "type": "1",
-    "sms": "500"
+    "sms": "2 000/67"
   },
   {
     "code": "102",
     "packet": "3 500/117",
-    "minutes": "750/25",
+    "minutes": "3 500/117",
     "name_ru": "Mobi 25",
     "name": "Mobi 25",
     "price": "25 000/1 250",
     "type": "1",
-    "sms": "750/25"
+    "sms": "3 500/117"
   },
   {
     "code": "128",
     "packet": "5 000/167",
-    "minutes": "1 000/33",
+    "minutes": "5 000/167",
     "name_ru": "Mobi 30+",
     "name": "Mobi 30+",
     "price": "30 000/1 500",
     "type": "1",
-    "sms": "1 000/33"
+    "sms": "3 500/117"
   },
   {
     "code": "122",
     "packet": "8 000/267",
-    "minutes": "1 200/40",
+    "minutes": "5 000/167",
     "name_ru": "Mobi 40",
     "name": "Mobi 40",
     "price": "40 000/2 000",
@@ -51,28 +41,28 @@
   },
   {
     "code": "129",
-    "packet": "8 000",
-    "minutes": "1 500",
+    "packet": "10 000",
+    "minutes": "5 000",
     "name_ru": "Mobi 50",
     "name": "Mobi 50",
     "price": "50 000",
     "type": "0",
-    "sms": "1 500"
+    "sms": "3 500"
   },
   {
     "code": "131",
     "packet": "20 000",
-    "minutes": "2 500",
+    "minutes": "5 000",
     "name_ru": "Mobi 70",
     "name": "Mobi 70",
     "price": "70 000",
     "type": "0",
-    "sms": "2 500"
+    "sms": "3 500"
   },
   {
     "code": "132",
     "packet": "65 000",
-    "minutes": "3 500",
+    "minutes": "5 000",
     "name_ru": "Mobi 90",
     "name": "Mobi 90",
     "price": "90 000",
