@@ -265,109 +265,118 @@
         "items": [
           {
             "title": {
-              "ru": "500 MB",
-              "uz": "500 MB"
+              "ru": "1 GB",
+              "uz": "1 GB"
             },
-            "code": "*558*555*3*1*20241#",
+            "code": "*558*1*1*20241#",
             "period": 31,
             "price": 8900
           },
           {
             "title": {
-              "ru": "1024 MB",
-              "uz": "1024 MB"
+              "ru": "1.5 GB",
+              "uz": "1.5 GB"
             },
-            "code": "*558*555*3*2*20241#",
+            "code": "*558*1*2*20241#",
             "period": 31,
             "price": 13000
           },
           {
             "title": {
-              "ru": "1536 MB",
-              "uz": "1536 MB"
+              "ru": "2 GB",
+              "uz": "2 GB"
             },
-            "code": "*558*555*3*3*20241#",
+            "code": "*558*1*3*20241#",
             "period": 31,
             "price": 15000
           },
           {
             "title": {
-              "ru": "3072 MB",
-              "uz": "3072 MB"
+              "ru": "4 GB",
+              "uz": "4 GB"
             },
-            "code": "*558*555*3*4*20241#",
+            "code": "*558*1*4*20241#",
             "period": 31,
             "price": 25000
           },
           {
             "title": {
-              "ru": "5120 MB",
-              "uz": "5120 MB"
+              "ru": "7 GB",
+              "uz": "7 GB"
             },
-            "code": "*558*555*3*5*20241#",
+            "code": "*558*1*5*20241#",
             "period": 31,
             "price": 35000
           },
           {
             "title": {
-              "ru": "10240 MB",
-              "uz": "10240 MB"
+              "ru": "10 GB",
+              "uz": "10 GB"
             },
-            "code": "*558*555*3*6*20241#",
+            "code": "*558*1*13*20241#",
+            "period": 31,
+            "price": 45000
+          },
+          {
+            "title": {
+              "ru": "13 GB",
+              "uz": "13 GB"
+            },
+            "code": "*558*1*6*20241#",
             "period": 31,
             "price": 55000
           },
           {
             "title": {
-              "ru": "12,288 MB",
-              "uz": "12,288 MB"
+              "ru": "20 GB",
+              "uz": "20 GB"
             },
-            "code": "*558*555*3*7*20241#",
+            "code": "*558*1*7*20241#",
             "period": 31,
             "price": 65000
           },
           {
             "title": {
-              "ru": "14,336 MB",
-              "uz": "14,336 MB"
+              "ru": "30 GB",
+              "uz": "30 GB"
             },
-            "code": "*558*555*3*8*20241#",
+            "code": "*558*1*8*20241#",
             "period": 31,
             "price": 75000
           },
           {
             "title": {
-              "ru": "16,384 MB",
-              "uz": "16,384 MB"
+              "ru": "50 GB",
+              "uz": "50 GB"
             },
-            "code": "*558*555*3*9*20241#",
+            "code": "*558*1*9*20241#",
             "period": 31,
             "price": 85000
           },
           {
             "title": {
-              "ru": "32,768 MB",
-              "uz": "32,768 MB"
+              "ru": "80 GB",
+              "uz": "80 GB"
             },
-            "code": "*558*555*3*10*20241#",
+            "code": "*558*1*10*20241#",
             "period": 31,
             "price": 115000
           },
           {
             "title": {
-              "ru": "65,536 MB",
-              "uz": "65,536 MB"
+              "ru": "90 GB",
+              "uz": "90 GB"
             },
-            "code": "*558*555*3*11*20241#",
+            "code": "*558*1*11*20241#",
             "period": 31,
             "price": 135000
           },
           {
             "title": {
-              "ru": "131,072 MB",
-              "uz": "131,072 MB"
+              "ru": "135 GB",
+              "uz": "135 GB"
             },
-            "code": "*558*555*3*12*20241#",
+            "code": "*558*1*12*20241#",
             "period": 31,
             "price": 188000
           }
@@ -385,28 +394,28 @@
         "items": [
           {
             "title": {
-              "ru": "80 MB",
-              "uz": "80 MB"
+              "ru": "900 MB",
+              "uz": "900 MB"
             },
-            "code": "*555*2*1*1#",
+            "code": "*555*2*1*1*20241#",
             "period": 7,
             "price": 8420
           },
           {
             "title": {
-              "ru": "160 MB",
-              "uz": "160 MB"
+              "ru": "1500 MB",
+              "uz": "1500 MB"
             },
-            "code": "*555*2*2*1#",
+            "code": "*555*2*2*1*20241#",
             "period": 7,
             "price": 12630
           },
           {
             "title": {
-              "ru": "320 MB",
-              "uz": "320 MB"
+              "ru": "2500 MB",
+              "uz": "2500 MB"
             },
-            "code": "*555*2*3*1#",
+            "code": "*555*2*3*1*20241#",
             "period": 7,
             "price": 16840
           }
@@ -420,82 +429,82 @@
         "items": [
           {
             "title": {
-              "ru": "5 MB",
-              "uz": "5 MB"
+              "ru": "20 MB",
+              "uz": "20 MB"
             },
-            "code": "*555*1*1*1#",
+            "code": "*555*1*1*1*20241#",
             "period": 1,
             "price": 390
           },
           {
             "title": {
-              "ru": "10 MB",
-              "uz": "10 MB"
+              "ru": "40 MB",
+              "uz": "40 MB"
             },
-            "code": "*555*1*2*1#",
+            "code": "*555*1*2*1*20241#",
             "period": 1,
             "price": 550
           },
           {
             "title": {
-              "ru": "20 MB",
-              "uz": "20 MB"
+              "ru": "80 MB",
+              "uz": "80 MB"
             },
-            "code": "*555*1*3*1#",
+            "code": "*555*1*3*1*20241#",
             "period": 1,
             "price": 790
           },
           {
             "title": {
-              "ru": "35 MB",
-              "uz": "35 MB"
+              "ru": "150 MB",
+              "uz": "150 MB"
             },
-            "code": "*555*1*4*1#",
+            "code": "*555*1*4*1*20241#",
             "period": 1,
             "price": 1190
           },
           {
             "title": {
-              "ru": "55 MB",
-              "uz": "55 MB"
+              "ru": "250 MB",
+              "uz": "250 MB"
             },
-            "code": "*555*1*5*1#",
+            "code": "*555*1*5*1*20241#",
             "period": 1,
             "price": 1890
           },
           {
             "title": {
-              "ru": "100 MB",
-              "uz": "100 MB"
+              "ru": "400 MB",
+              "uz": "400 MB"
             },
-            "code": "*555*1*6*1#",
+            "code": "*555*1*6*1*20241#",
             "period": 1,
             "price": 2790
           },
           {
             "title": {
-              "ru": "130 MB",
-              "uz": "130 MB"
+              "ru": "550 MB",
+              "uz": "550 MB"
             },
-            "code": "*555*1*7*1#",
+            "code": "*555*1*7*1*20241#",
             "period": 1,
             "price": 3790
           },
           {
             "title": {
-              "ru": "160 MB",
-              "uz": "160 MB"
+              "ru": "700 MB",
+              "uz": "700 MB"
             },
-            "code": "*555*1*8*1#",
+            "code": "*555*1*8*1*20241#",
             "period": 1,
             "price": 4490
           },
           {
             "title": {
-              "ru": "200 MB",
-              "uz": "200 MB"
+              "ru": "800 MB",
+              "uz": "800 MB"
             },
-            "code": "*555*1*9*1#",
+            "code": "*555*1*9*1*20241#",
             "period": 1,
             "price": 4990
           }
@@ -516,7 +525,7 @@
               "ru": "Безлимит на одну ночь с услугой 'Ночной интернет'.",
               "uz": "Bir tunga checksiz internet 'Tungi Internet' xizmati bilan."
             },
-            "code": "*616#",
+            "code": "*616*3*1#",
             "period": 1,
             "price": 7990
           },
@@ -703,8 +712,8 @@
               "uz": "Special Unlim"
             },
             "desc": {
-              "ru": "Месячный интернет на полной скорости: 50GB.",
-              "uz": "Oylik internet to'liq tezlikda: 50GB.SMS (Uzb): 80 so'm.SMS (Xalqaro): 505.20 so'm.Internet: 450 so'm/MB.Limitni tekshirish: *103#."
+              "ru": "Месячный интернет на полной скорости: 70GB.",
+              "uz": "Oylik internet to'liq tezlikda: 70GB.SMS (Uzb): 80 so'm.SMS (Xalqaro): 505.20 so'm.Internet: 450 so'm/MB.Limitni tekshirish: *103#."
             },
             "price": 139900,
             "minAll": "VIP",
@@ -723,7 +732,7 @@
             },
             "price": 125000,
             "minAll": "VIP",
-            "net": 35000,
+            "net": 45000,
             "sms": 5000,
             "code": "*120*2#"
           },
@@ -738,7 +747,7 @@
             },
             "price": 125000,
             "minAll": "VIP",
-            "net": 25000,
+            "net": 32000,
             "sms": 5000,
             "code": "*120*2#"
           },
@@ -753,7 +762,7 @@
             },
             "price": 80000,
             "minAll": "VIP",
-            "net": 18000,
+            "net": 24000,
             "sms": 5000,
             "code": "*120*2#"
           },
@@ -768,7 +777,7 @@
             },
             "price": 70000,
             "minAll": "VIP",
-            "net": 16000,
+            "net": 20000,
             "sms": 4000,
             "code": "*120*2#"
           },
@@ -783,7 +792,7 @@
             },
             "price": 55000,
             "minAll": 4000,
-            "net": 12000,
+            "net": 14000,
             "sms": 3000,
             "code": "*120*2#"
           },
@@ -798,7 +807,7 @@
             },
             "price": 45000,
             "minAll": 3000,
-            "net": 9000,
+            "net": 10000,
             "sms": 2000,
             "code": "*120*2#"
           },
@@ -813,7 +822,7 @@
             },
             "price": 35000,
             "minAll": 2500,
-            "net": 7000,
+            "net": 8000,
             "sms": 1000,
             "code": "*120*2#"
           }
@@ -835,10 +844,10 @@
               "uz": "Chiquvchi (tarmoq): 95 so'm.Chiquvchi (Uzb): 125 so'm.SMS (Uzb): 80 so'm.SMS (Xalqaro): 505.20 so'm.Internet: 450 so'm/MB.Limitni tekshirish: *103#."
             },
             "price": 28000,
-            "minAll": 2000,
+            "minAll": 2200,
             "minIn": 0,
-            "net": 5000,
-            "sms": 500,
+            "net": 6000,
+            "sms": 600,
             "code": "*120*2#"
           },
           {
@@ -868,9 +877,9 @@
               "uz": "Chiquvchi (tarmoq): 95 so'm.Chiquvchi (Uzb): 125 so'm.SMS (Uzb): 80 so'm.SMS (Xalqaro): 505.20 so'm.Internet: 450 so'm/MB.Limitni tekshirish: *103#."
             },
             "price": 23000,
-            "minAll": 1500,
-            "net": 3000,
-            "sms": 300,
+            "minAll": 1700,
+            "net": 4000,
+            "sms": 400,
             "code": "*120*2#"
           },
           {
@@ -900,9 +909,9 @@
               "uz": "Chiquvchi (tarmoq): 95 so'm.Chiquvchi (Uzb): 125 so'm.SMS (Uzb): 80 so'm.SMS (Xalqaro): 505.20 so'm.Internet: 450 so'm/MB.Limitni tekshirish: *103#."
             },
             "price": 16000,
-            "minAll": 1000,
-            "net": 2000,
-            "sms": 200,
+            "minAll": 1200,
+            "net": 2500,
+            "sms": 300,
             "code": "*120*2#"
           },
           {
