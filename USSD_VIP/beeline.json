@@ -203,6 +203,14 @@
         "items": [
           {
             "title": {
+              "ru": "4G Неделя",
+              "uz": "4G Hafta"
+            },
+            "price": 30000,
+            "code": "*110*62#"
+          },
+          {
+            "title": {
               "ru": "100 MB",
               "uz": "100 MB"
             },
@@ -231,75 +239,67 @@
               "uz": "4G Oy"
             },
             "desc": {
-              "ru": "25000 MB/месяц в только для сети 4G.",
-              "uz": "Faqatgina 4G tarmog'i uchun oyiga 25000 MB internet."
+              "ru": "30000 MB/месяц в только для сети 4G.",
+              "uz": "Faqatgina 4G tarmog'i uchun oyiga 30000 MB internet."
             },
             "price": 50000,
             "code": "*110*59#"
           },
           {
             "title": {
-              "ru": "1000 MB",
-              "uz": "1000 MB"
+              "ru": "1 GB",
+              "uz": "1 GB"
             },
             "price": 10000,
-            "code": "*1*1#"
+            "code": "*1*01*8116#"
           },
           {
             "title": {
-              "ru": "3000 MB",
-              "uz": "3000 MB"
+              "ru": "5 GB",
+              "uz": "5 GB"
             },
-            "price": 20000,
-            "code": "*1*2#"
+            "price": 25000,
+            "code": "*1*05*8116#"
           },
           {
             "title": {
-              "ru": "6000 MB",
-              "uz": "6000 MB"
-            },
-            "price": 30000,
-            "code": "*1*3#"
-          },
-          {
-            "title": {
-              "ru": "9000 MB",
-              "uz": "9000 MB"
+              "ru": "10 GB",
+              "uz": "10 GB"
             },
             "price": 40000,
-            "code": "*1*4#"
+            "code": "*1*10*8116#"
           },
           {
             "title": {
-              "ru": "12000 MB",
-              "uz": "12000 MB"
+              "ru": "20 GB",
+              "uz": "20 GB"
             },
-            "price": 50000,
-            "code": "*1*5#"
+            "price": 65000,
+            "code": "*1*20*8116#"
           },
           {
             "title": {
-              "ru": "15000 MB",
-              "uz": "15000 MB"
+              "ru": "30 GB",
+              "uz": "30 GB"
             },
-            "price": 60000,
-            "code": "*1*6#"
+            "price": 75000,
+            "code": "*1*30*8116#"
           },
           {
             "title": {
-              "ru": "20000 MB",
-              "uz": "20000 MB"
-            },
-            "price": 70000,
-            "code": "*1*7#"
-          },
-          {
-            "title": {
-              "ru": "30000 MB",
-              "uz": "30000 MB"
+              "ru": "50 GB",
+              "uz": "50 GB"
             },
             "price": 90000,
-            "code": "*1*8#"
+            "code": "*1*50*8116#"
+          },
+          {
+            "title": {
+              "ru": "75 GB",
+              "uz": "75 GB"
+            },
+            "price": 110000,
+            "code": "*1*75*8116#"
           }
         ]
       }
@@ -341,92 +341,91 @@
           },
           {
             "title": {
-              "ru": "ZO'R 2",
-              "uz": "ZO'R 2"
+              "ru": "ZO'R 3",
+              "uz": "ZO'R 3"
             },
             "price": 20000,
-            "minAll": 2000,
-            "net": 2000,
-            "sms": 2000,
-            "code": "*110*36#"
+            "minAll": 1500,
+            "net": 3000,
+            "sms": 1500,
+            "code": "*2*3#"
           },
           {
             "title": {
-              "ru": "Новый Super ХИТ",
-              "uz": "Yangi Super XIT"
+              "ru": "ZO'R 5",
+              "uz": "ZO'R 5"
             },
-            "price": 33333,
-            "minAll": 1000,
-            "minIn": 0,
-            "net": 4000,
-            "sms": 400,
-            "code": "*110*37#"
+            "price": 27000,
+            "minAll": 2500,
+            "net": 5000,
+            "sms": 2500,
+            "code": "*2*5#"
           },
           {
             "title": {
-              "ru": "ZO'R 6",
-              "uz": "ZO'R 6"
+              "ru": "ZO'R 7",
+              "uz": "ZO'R 7"
             },
             "price": 35000,
             "minAll": "VIP",
-            "net": 6000,
+            "net": 7000,
             "sms": 5000,
-            "code": "*110*60#"
+            "code": "*2*7#"
           },
           {
             "title": {
-              "ru": "ZO'R 10",
-              "uz": "ZO'R 10"
+              "ru": "ZO'R 12",
+              "uz": "ZO'R 12"
             },
             "price": 50000,
             "minAll": "VIP",
-            "net": 10000,
+            "net": 12000,
             "sms": 5000,
-            "code": "*110*38#"
+            "code": "*2*12#"
           },
           {
             "title": {
-              "ru": "ZO'R 15",
-              "uz": "ZO'R 15"
+              "ru": "ZO'R 20",
+              "uz": "ZO'R 20"
             },
             "price": 70000,
             "minAll": "VIP",
-            "net": 15000,
+            "net": 20000,
             "sms": 5000,
-            "code": "*110*39#"
+            "code": "*2*20#"
           },
           {
             "title": {
-              "ru": "Status Silver New",
-              "uz": "Status Silver New"
+              "ru": "Status Silver",
+              "uz": "Status Silver"
             },
             "price": 90000,
             "minAll": "VIP",
-            "net": 20000,
+            "net": 30000,
             "sms": 5000,
-            "code": "*110*3#"
+            "code": "*2*30#"
           },
           {
             "title": {
-              "ru": "Status Gold New",
-              "uz": "Status Gold New"
+              "ru": "Status Gold",
+              "uz": "Status Gold"
             },
             "price": 130000,
             "minAll": "VIP",
-            "net": 30000,
+            "net": 50000,
             "sms": 10000,
-            "code": "*110*2#"
+            "code": "*2*50#"
           },
           {
             "title": {
-              "ru": "Status Platinum New",
-              "uz": "Status Platinum New"
+              "ru": "Status Platinum",
+              "uz": "Status Platinum"
             },
-            "price": 189000,
+            "price": 200000,
             "minAll": "VIP",
-            "net": 100000,
+            "net": 150000,
             "sms": 10000,
-            "code": "*110*1#"
+            "code": "*2*150#"
           },
           {
             "title": {
