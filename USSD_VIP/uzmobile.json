@@ -129,10 +129,10 @@
         "items": [
           {
             "title": {
-              "ru": "500 MB",
-              "uz": "500 MB"
+              "ru": "1000 MB",
+              "uz": "1000 MB"
             },
-            "price": 10000,
+            "price": 9000,
             "code": "*147*10072*21447#",
             "period": 30
           },
@@ -141,7 +141,7 @@
               "ru": "1500 MB",
               "uz": "1500 MB"
             },
-            "price": 15000,
+            "price": 14000,
             "code": "*147*10073*21447#",
             "period": 30
           },
@@ -150,7 +150,7 @@
               "ru": "3000 MB",
               "uz": "3000 MB"
             },
-            "price": 24000,
+            "price": 18000,
             "code": "*147*10074*21447#",
             "period": 30
           },
@@ -159,7 +159,7 @@
               "ru": "5000 MB",
               "uz": "5000 MB"
             },
-            "price": 32000,
+            "price": 25000,
             "code": "*147*10075*21447#",
             "period": 30
           },
@@ -168,7 +168,7 @@
               "ru": "8000 MB",
               "uz": "8000 MB"
             },
-            "price": 41000,
+            "price": 35000,
             "code": "*147*10076*21447#",
             "period": 30
           },
@@ -265,7 +265,7 @@
               "ru": "VIP 1",
               "uz": "VIP 1"
             },
-            "price": 3999,
+            "price": 6300,
             "code": "*111*1*18*1#",
             "period": 1
           },
@@ -274,7 +274,7 @@
               "ru": "VIP 7",
               "uz": "VIP 7"
             },
-            "price": 19999,
+            "price": 31500,
             "code": "*111*1*18*3#",
             "period": 7
           },
@@ -283,7 +283,7 @@
               "ru": "VIP 30",
               "uz": "VIP 30"
             },
-            "price": 69999,
+            "price": 99000,
             "code": "*111*1*18*2#",
             "period": 30
           }
@@ -304,7 +304,7 @@
               "ru": "Статус: *111*2*14*1*3#.",
               "uz": "Xolatni tekshirish: *111*2*14*1*3#."
             },
-            "price": 24000,
+            "price": 18000,
             "code": "*147*10055*21447#",
             "codeOff": "*111*2*14*1*2#",
             "period": 30
@@ -318,7 +318,7 @@
               "ru": "Статус: *111*2*14*2*3#.",
               "uz": "Xolatni tekshirish: *111*2*14*2*3#."
             },
-            "price": 32000,
+            "price": 25000,
             "code": "*147*10056*21447#",
             "codeOff": "*111*2*14*2*2#",
             "period": 30
@@ -332,7 +332,7 @@
               "ru": "Статус: *111*2*14*3*3#.",
               "uz": "Xolatni tekshirish: *111*2*14*3*3#."
             },
-            "price": 41000,
+            "price": 35000,
             "code": "*147*10057*21447#",
             "codeOff": "*111*2*14*3*2#",
             "period": 30
@@ -348,6 +348,20 @@
             },
             "price": 50000,
             "code": "*147*10151*21447#",
+            "codeOff": "*111*2*14*4*2#",
+            "period": 30
+          },
+          {
+            "title": {
+              "ru": "16000 MB",
+              "uz": "16000 MB"
+            },
+            "desc": {
+              "ru": "Статус: *111*2*14*9*3#.",
+              "uz": "Xolatni tekshirish: *111*2*14*9*3#."
+            },
+            "price": 60000,
+            "code": "*147*10156*21447#",
             "codeOff": "*111*2*14*4*2#",
             "period": 30
           },
@@ -546,97 +560,115 @@
         "items": [
           {
             "title": {
-              "ru": "Просто 10",
-              "uz": "Oddiy 10"
+              "ru": "MILLIY 10",
+              "uz": "MILLIY 10"
             },
             "desc": {
               "ru": "Исходящие: 10 сум/мин.SMS: 10 сум.Интерне: 10 сум/MB.",
-              "uz": "Chiquvchi: 10 so'm/daq.SMS narxi: 10 so'm."
+              "uz": "Chiquvchi: 10 so'm/daq.SMS narxi: 10 so'm.Internet: 10 so'm/MB"
             },
             "price": 10000,
             "minAll": 10,
             "minIn": 10,
             "net": 10,
             "sms": 10,
-            "code": "*111*1*11*12#"
+            "code": "*111*1*11*1#"
           },
           {
             "title": {
-              "ru": "Street",
-              "uz": "Street"
+              "ru": "MILLIY 15",
+              "uz": "MILLIY 15"
             },
             "desc": {
-              "ru": "Цена SMS: 84 сум.Интернет: 160 сум/MB.",
-              "uz": "SMS narxi: 84 so'm.Internet: 160 so'm/MB."
+              "ru": "Исходящие: 5 сум/мин.SMS: 5 сум.Интерне: 5 сум/MB.",
+              "uz": "Chiquvchi: 5 so'm/daq.SMS narxi: 5 so'm.Internet: 5 so'm/MB"
             },
-            "price": 39900,
-            "minAll": 750,
-            "minIn": 1500,
-            "net": 6500,
-            "sms": 750,
-            "code": "*111*1*11*1*1#"
+            "price": 15000,
+            "minAll": 100,
+            "minIn": 100,
+            "net": 500,
+            "sms": 500,
+            "code": "*111*1*11*2#"
           },
           {
             "title": {
-              "ru": "OnLime",
-              "uz": "OnLime"
+              "ru": "MILLIY 40",
+              "uz": "MILLIY 40"
             },
             "desc": {
-              "ru": "Цена SMS: 84 сум.Интернет: 280 сум/MB.",
-              "uz": "SMS narxi: 84 so'm.Internet: 280 so'm/MB."
+              "ru": "Исходящие: 0 сум/мин.SMS: 80 сум.Интерне: 80 сум/MB.",
+              "uz": "Chiquvchi: 0 so'm/daq.SMS narxi: 80 so'm.Internet: 80 so'm/MB"
             },
-            "price": 49900,
-            "minAll": 1000,
-            "minIn": 2000,
-            "net": 10000,
-            "sms": 1000,
-            "code": "*111*1*11*6#"
-          },
-          {
-            "title": {
-              "ru": "Flash",
-              "uz": "Flash"
-            },
-            "desc": {
-              "ru": "Цена SMS: 84 сум.Интернет: 160 сум/MB.",
-              "uz": "SMS narxi: 84 so'm.Internet: 160 so'm/MB."
-            },
-            "price": 69900,
-            "minAll": 1500,
-            "minIn": 2000,
-            "net": 16000,
-            "sms": 1500,
-            "code": "*111*1*11*2*1#"
-          },
-          {
-            "title": {
-              "ru": "Деловой",
-              "uz": "Ishbilarmon"
-            },
-            "desc": {
-              "ru": "Цена SMS: 80 сум.Интерне: 350 сум/MB.",
-              "uz": "SMS narxi: 80 so'm.Internet: 350 so'm/MB."
-            },
-            "price": 99000,
+            "price": 40000,
             "minAll": "VIP",
-            "net": 25000,
+            "minIn": "VIP",
+            "net": 8192,
             "sms": 3000,
-            "code": "*111*1*11*10#"
+            "code": "*111*1*11*3#"
           },
           {
             "title": {
-              "ru": "Royal",
-              "uz": "Royal"
+              "ru": "MILLIY 50",
+              "uz": "MILLIY 50"
             },
             "desc": {
-              "ru": "Цена SMS: 80 сум.",
-              "uz": "SMS narxi: 80 so'm."
+              "ru": "Исходящие: 0 сум/мин.SMS: 80 сум.Интерне: 80 сум/MB.",
+              "uz": "Chiquvchi: 0 so'm/daq.SMS narxi: 80 so'm.Internet: 80 so'm/MB"
             },
-            "price": 149900,
+            "price": 50000,
             "minAll": "VIP",
+            "minIn": "VIP",
+            "net": 12288,
+            "sms": 5000,
+            "code": "*111*1*11*4#"
+          },
+          {
+            "title": {
+              "ru": "MILLIY 70",
+              "uz": "MILLIY 70"
+            },
+            "desc": {
+              "ru": "Исходящие: 0 сум/мин.SMS: 80 сум.Интерне: 80 сум/MB.",
+              "uz": "Chiquvchi: 0 so'm/daq.SMS narxi: 80 so'm.Internet: 80 so'm/MB"
+            },
+            "price": 70000,
+            "minAll": "VIP",
+            "minIn": "VIP",
+            "net": 20480,
+            "sms": 5000,
+            "code": "*111*1*11*5#"
+          },
+          {
+            "title": {
+              "ru": "MILLIY 100",
+              "uz": "MILLIY 100"
+            },
+            "desc": {
+              "ru": "Исходящие: 0 сум/мин.SMS: 80 сум.Интерне: 80 сум/MB.",
+              "uz": "Chiquvchi: 0 so'm/daq.SMS narxi: 80 so'm.Internet: 80 so'm/MB"
+            },
+            "price": 100000,
+            "minAll": "VIP",
+            "minIn": "VIP",
+            "net": 35840,
+            "sms": 5000,
+            "code": "*111*1*11*6#"
+          }
+          {
+            "title": {
+              "ru": "MILLIY VIP",
+              "uz": "MILLIY VIP"
+            },
+            "desc": {
+              "ru": "Исходящие: 0 сум/мин.SMS: 80 сум.Интерне: 80 сум/MB.",
+              "uz": "Chiquvchi: 0 so'm/daq.SMS narxi: 80 so'm.Internet: 80 so'm/MB"
+            },
+            "price": 100000,
+            "minAll": "VIP",
+            "minIn": "VIP",
             "net": "VIP",
             "sms": 5000,
-            "code": "*111*1*11*3*1#"
+            "code": "*111*1*11*6#"
           }
         ]
       },
@@ -773,46 +805,6 @@
             "net": 0,
             "sms": 0,
             "code": "*777*8#"
-          }
-        ]
-      },
-      {
-        "title": {
-          "ru": "3 Месячные",
-          "uz": "3 oylik"
-        },
-        "items": [
-          {
-            "title": {
-              "ru": "Street Upgrade",
-              "uz": "Street Upgrade"
-            },
-            "desc": {
-              "ru": "Исходящие: 126 сум.SMS: 84 сум.Интерне: 280 сум/MB.",
-              "uz": "SMS narxi: 84 so'm.Internet: 280 so'm/MB."
-            },
-            "price": 119700,
-            "minAll": 3000,
-            "minIn": 6000,
-            "net": 26000,
-            "sms": 3000,
-            "code": "*111*1*11*4*1#"
-          },
-          {
-            "title": {
-              "ru": "Flash Upgrade",
-              "uz": "Flash upgrade"
-            },
-            "desc": {
-              "ru": "Исходящие: 126 сум.SMS: 84 сум.Интерне: 280 сум/MB.",
-              "uz": "SMS narxi: 84 so'm.Internet: 280 so'm/MB."
-            },
-            "price": 209700,
-            "minAll": 6000,
-            "minIn": 8000,
-            "net": 64000,
-            "sms": 6000,
-            "code": "*111*1*11*5*1#"
           }
         ]
       },
