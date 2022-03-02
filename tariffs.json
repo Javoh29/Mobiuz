@@ -50,6 +50,16 @@
     "sms": "3 500"
   },
   {
+    "code": "129",
+    "packet": "15 000",
+    "minutes": "5 000",
+    "name_ru": "Mobi 50",
+    "name": "Mobi 60",
+    "price": "60 000",
+    "type": "0",
+    "sms": "3 500"
+  },
+  {
     "code": "131",
     "packet": "20 000",
     "minutes": "5 000",
