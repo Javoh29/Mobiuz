@@ -8,15 +8,15 @@
   },
   {
     "code": "*166#",
-    "def": "Super 0 xizmati yoqilganda UMS tarmog'i ichida chiquvchi qo'ng'iroqlar uchun bir kalendar oyi muddatiga 15 000 daqiqalik to'plam ishga tushadi. Super 0 xizmati yoqilganda Konferents-aloqa xizmati ishlamaydi. Xizmat narxi 4 211 so'm. Ijobiy balansda faollashtirilgan paytda yechib olinadi! Xizmat amal qilish muddati cheklanmagan",
-    "def_ru": "С услугой «Super 0» исходящие звонки внутри сети UMS бесплатны**! Стоимость активации услуги — 4210,35 (списывается единоразово при подключении услуги). Ежемесячная абонентская плата за услугу — 0 сум! Срок действия услуги неограничен",
+    "def": "Super 0 xizmati yoqilganda Mobiuz tarmog'i ichida chiquvchi qo'ng'iroqlar uchun bir kalendar oyi muddatiga 15 000 daqiqalik to'plam ishga tushadi. Super 0 xizmati yoqilganda Konferents-aloqa xizmati ishlamaydi. Xizmat narxi 4 211 so'm. Ijobiy balansda faollashtirilgan paytda yechib olinadi! Xizmat amal qilish muddati cheklanmagan",
+    "def_ru": "С услугой «Super 0» исходящие звонки внутри сети Mobiuz бесплатны**! Стоимость активации услуги — 4210,35 (списывается единоразово при подключении услуги). Ежемесячная абонентская плата за услугу — 0 сум! Срок действия услуги неограничен",
     "name": "Gap ko`p",
     "name_ru": "Гап куп"
   },
   {
     "code": "*111*32#",
     "def": "Ushbu xizmat kelgusida to'lanadigan mablag' hisobidan aloqa xizmatalridan foydalanishni davom ettirish uchun o'z hisobvaraqangizga 3 kun muddatga 12 632 so'm tushirish imkonini beradi. Va'da qilingan to'lov xizmatlarining amal qilish muddati tugagach, hisobvaraqdan 14 737 so'm (berilgan 12 632 so'm va faollashtirish uchun 2 105 so'm) yechib olinadi",
-    "def_ru": "«Вам звонили!» — дополнительная услуга связи, позволяющая абоненту UMS не потерять ни одного вызова в тех случаях, когда его телефон будет недоступен или выключен. Информацию о пропущенных вызовах абонент получит в виде SMS-сообщения c номера 808. Услуга «Вам звонили!» доступна и в роуминге. Важно помнить, что хотя сама услуга и входящие SMS в сети UMS являются бесплатными, в ряде стран за входящие SMS операторы мобильной связи взимают плату",
+    "def_ru": "«Вам звонили!» — дополнительная услуга связи, позволяющая абоненту Mobiuz не потерять ни одного вызова в тех случаях, когда его телефон будет недоступен или выключен. Информацию о пропущенных вызовах абонент получит в виде SMS-сообщения c номера 808. Услуга «Вам звонили!» доступна и в роуминге. Важно помнить, что хотя сама услуга и входящие SMS в сети UMS являются бесплатными, в ряде стран за входящие SMS операторы мобильной связи взимают плату",
     "name": "Vada qilingan tolov",
     "name_ru": "Обещанный платеж"
   },
@@ -30,7 +30,7 @@
   {
     "code": "*111*0131#",
     "def": "Yangi ulangan abonentlarga ushbu xizmatni 30 kun davomida bepul ishlatish uchun faollashtirish imkoniyati taqdim etiladi. 30 kundan so'ng xizmat narxi 84 so'mni tashkil etadi. Amaldagi abonentlar uchun xizmatning abonent to'lovi - 84 so'm / kun. Bekor qilish: *111*0130#",
-    "def_ru": "«Вам звонили!» — дополнительная услуга связи, позволяющая абоненту UMS не потерять ни одного вызова в тех случаях, когда его телефон будет недоступен или выключен. Информацию о пропущенных вызовах абонент получит в виде SMS-сообщения c номера 808. Услуга «Вам звонили!» доступна и в роуминге. Важно помнить, что хотя сама услуга и входящие SMS в сети UMS являются бесплатными, в ряде стран за входящие SMS операторы мобильной связи взимают плату. Отменить услугу *111*0130#",
+    "def_ru": "«Вам звонили!» — дополнительная услуга связи, позволяющая абоненту Mobiuz не потерять ни одного вызова в тех случаях, когда его телефон будет недоступен или выключен. Информацию о пропущенных вызовах абонент получит в виде SMS-сообщения c номера 808. Услуга «Вам звонили!» доступна и в роуминге. Важно помнить, что хотя сама услуга и входящие SMS в сети UMS являются бесплатными, в ряде стран за входящие SMS операторы мобильной связи взимают плату. Отменить услугу *111*0130#",
     "name": "Sizga qongiroq qilishdi & Men aloqadaman!",
     "name_ru": "Вам звонили & Я на связи!"
   },
