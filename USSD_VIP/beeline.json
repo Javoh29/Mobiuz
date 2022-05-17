@@ -155,11 +155,11 @@
               "uz": "4G Kun"
             },
             "desc": {
-              "ru": "5000 MB/день в только для сети 4G.",
-              "uz": "Faqatgina 4G tarmog'i uchun kuniga 5000 MB internet."
+              "ru": "4 GB/день в только для сети 4G.",
+              "uz": "Faqatgina 4G tarmog'i uchun kuniga 4 GB internet."
             },
             "price": 10000,
-            "code": "*110*58#"
+            "code": "*1*0*4#"
           },
           {
             "title": {
