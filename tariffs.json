@@ -1,6 +1,16 @@
 [
   {
     "code": "120",
+    "packet": "1 600/53",
+    "minutes": "1 600/53",
+    "name_ru": "Mobi 16",
+    "name": "Mobi 16",
+    "price": "20 000/1 000",
+    "type": "1",
+    "sms": "160/5"
+  },
+  {
+    "code": "120",
     "packet": "2 000/67",
     "minutes": "2 000/67",
     "name_ru": "Mobi 20",
