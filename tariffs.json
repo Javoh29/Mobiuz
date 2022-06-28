@@ -110,8 +110,38 @@
     "sms": "10 000"
   },
   {
+    "code": "103",
+    "packet": "5 000/167",
+    "minutes": "250/9",
+    "name_ru": "GAP yo’q Mini",
+    "name": "GAP yo’q Mini",
+    "price": "20 000/667",
+    "type": "1",
+    "sms": "0"
+  },
+  {
+    "code": "100",
+    "packet": "10 000/337",
+    "minutes": "500/17",
+    "name_ru": "GAP yo’q",
+    "name": "GAP yo’q",
+    "price": "35 000/1 750",
+    "type": "1",
+    "sms": "0"
+  },
+  {
+    "code": "104",
+    "packet": "30 000/1 000",
+    "minutes": "750/25",
+    "name_ru": "GAP yo’q Maxi",
+    "name": "GAP yo’q Maxi",
+    "price": "55 000/1 833",
+    "type": "1",
+    "sms": "0"
+  },
+  {
     "code": "101",
-    "packet": "35 000/1 167",
+    "packet": "50 000/1 667",
     "minutes": "1 000/34",
     "name_ru": "GAP yo’q Pro",
     "name": "GAP yo’q Pro",
